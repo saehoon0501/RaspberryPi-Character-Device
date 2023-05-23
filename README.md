@@ -13,7 +13,7 @@
 
 # 🚀  데이터 흐름
 <center>
-<img src="src/SystemDesign.png" width="600px" height="300px" title="px(픽셀) 크기 설정" alt="ProjectImage"></img></center>
+<img src="src/SystemDesign.png" width="600px" height="500px" title="px(픽셀) 크기 설정" alt="ProjectImage"></img></center>
 
 - 초음파 센서에서 거리 데이터를 받는다. 
 - 그 후 거리 값 을 계산하여 kernel에 존재하는 linked list 앞에 저장되고 따라서 가장 최근 데이터가 맨 앞에 존재하게 된다. 
